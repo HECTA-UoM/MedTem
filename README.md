@@ -1,6 +1,6 @@
 # MedTem
 
-<img src="https://github.com/poethan/TransformerCRF/blob/main/TransformerCRF-UoM-logo-.png" width="100">
+<img src="https://github.com/HECTA-UoM/MedTem/blob/main/MedTem-logo-v1.png" width="100">
 
 Medication Mining and Temporal Relation Modelling using NLP
 
