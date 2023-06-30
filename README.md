@@ -17,6 +17,10 @@ n2c2 shared task data from 2009 and 2012.
 MedTem2.0 System Pipeline
 <img src="https://github.com/HECTA-UoM/MedTem/blob/main/MedTem2_pipeline.png" width="700">
 
+PBL (prompt-based learning) vs Pre-training+Finetuning
+
+<img src="https://github.com/HECTA-UoM/MedTem/blob/main/PBL_vs_FineTune.png" width="700">
+
 
 
 # References: 
