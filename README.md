@@ -21,6 +21,8 @@ PBL (prompt-based learning) vs Pre-training+Finetuning
 
 <img src="https://github.com/HECTA-UoM/MedTem/blob/main/PBL_vs_FineTune.png" width="700">
 
+<img src="https://github.com/HECTA-UoM/MedTem/blob/main/scores_PBL_PF.png" width="700">
+
 
 
 # References: 
