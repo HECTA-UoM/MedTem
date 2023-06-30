@@ -14,6 +14,10 @@ n2c2 shared task data from 2009 and 2012.
 
 # Data creation for MedTem2.0
 
+MedTem2.0 System Pipeline
+<img src="https://github.com/HECTA-UoM/MedTem/blob/main/MedTem2_pipeline.png" width="700">
+
+
 
 # References: 
 
