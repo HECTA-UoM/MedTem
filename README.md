@@ -12,6 +12,11 @@ We use state-of-the-art NLP models including LLMs and GPTs to extract medication
 # Data used for testing
 n2c2 shared task data from 2009 and 2012.
 
+# PBL Template Examples
+
+
+<img src="https://github.com/HECTA-UoM/MedTem/blob/main/PBL_templates.png" width="500">
+
 # Data creation for MedTem2.0
 
 The i2b2 temporal relations corpus we used contains pre-existing layers of gold standard annotations, such as clinical concepts (problems, tests, treatments) and coreference relations (Uzuneret al. 2011, 2012), which can facilitate temporal reasoning. 'The 2010 i2b2/VA Workshop on Natural Language Processing Challenges for Clinical Records' [challenge page](https://www.i2b2.org/NLP/Relations/).
