@@ -31,6 +31,9 @@ PBL (prompt-based learning) vs Pre-training+Finetuning
 <img src="https://github.com/HECTA-UoM/MedTem/blob/main/scores_PBL_PF.png" width="700">
 
 
+# Presentations
+ACL2023 https://virtual2023.aclweb.org/paper_S57.html
+HealTAC2023 http://healtex.org/healtac-2023/programme/ 
 
 # References: 
 
