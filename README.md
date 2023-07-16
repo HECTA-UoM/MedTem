@@ -42,3 +42,6 @@ MedTem2.0: Prompt-based Temporal Classification of Treatment Events from Dischar
 
 Hangyu Tu. 2022. Extraction of Temporal Information from Clinical Free Text. MSc thesis. Uni Manchester. MSc Advisor: [Prof Goran Nenadic](https://research.manchester.ac.uk/en/persons/gnenadic) and [Dr Lifeng Han](https://research.manchester.ac.uk/en/persons/lifeng.han) | 
 [thesis-download](https://www.researchgate.net/publication/369453637_Extraction_of_Temporal_Information_from_Clinical_Free_Text)
+
+# Acknowledgement
+Thanks go to Warren for advice on logo design. 
