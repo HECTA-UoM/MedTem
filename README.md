@@ -12,7 +12,7 @@ MedTem1.0 goal of output from free text to table representation:
 
 <img src="https://github.com/HECTA-UoM/MedTem/blob/main/input-example-free-text.png" width="900">
 
-<img src="https://github.com/HECTA-UoM/MedTem/blob/main/example-output.pgn" width="600">
+<img src="https://github.com/HECTA-UoM/MedTem/blob/main/example-output.png" width="600">
 
 
 MedTem1.0 Pipeline:
