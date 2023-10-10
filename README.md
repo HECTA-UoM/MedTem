@@ -94,4 +94,4 @@ Hangyu Tu. 2022. Extraction of Temporal Information from Clinical Free Text. MSc
 [thesis-download](https://www.researchgate.net/publication/369453637_Extraction_of_Temporal_Information_from_Clinical_Free_Text)
 
 # Acknowledgement
-Thanks go to Warren for advice on logo design. 
+Thanks go to Warren for advice on logo design. We are grateful to grant support EP/V047949/1 “Integrating hospital outpatient letters into the healthcare data space” (funder: UKRI/EPSRC).
