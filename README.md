@@ -59,7 +59,8 @@ MedTem1.0 RE scores using BERT-CNN on i2b2 2012 train and test set:
 
 The i2b2 temporal relations corpus we used contains pre-existing layers of gold standard annotations, such as clinical concepts (problems, tests, treatments) and coreference relations (Uzuneret al. 2011, 2012), which can facilitate temporal reasoning. 'The 2010 i2b2/VA Workshop on Natural Language Processing Challenges for Clinical Records' [challenge page](https://www.i2b2.org/NLP/Relations/).
 
-MedTem2.0 System Pipeline
+MedTem2.0 System Pipeline:
+
 <img src="https://github.com/HECTA-UoM/MedTem/blob/main/MedTem2_pipeline.png" width="700">
 
 PBL (prompt-based learning) vs Pre-training+Finetuning
@@ -85,6 +86,7 @@ MedTem-1:
       year={2023},
       eprint={2310.02229},
       archivePrefix={arXiv},
+      url={https://arxiv.org/abs/2310.02229}
       primaryClass={cs.CL}
 }
 
