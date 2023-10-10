@@ -74,7 +74,7 @@ PBL (prompt-based learning) vs Pre-training+Finetuning
 ACL2023 https://virtual2023.aclweb.org/paper_S57.html
 HealTAC2023 http://healtex.org/healtac-2023/programme/ 
 
-# References: 
+# Cite our work: 
 
 Yang Cui, Lifeng Han, Goran Nenadic. 2023. 
 MedTem2.0: Prompt-based Temporal Classification of Treatment Events from Discharge Summaries. Accepted to ACL2023: SRW. [paper](https://www.researchgate.net/publication/371575431_MedTem20_Prompt-based_Temporal_Classification_of_Treatment_Events_from_Discharge_Summaries) [poster](https://github.com/HECTA-UoM/MedTem/blob/main/MedTem_poster_Portrait_4ACL.pdf)
