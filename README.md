@@ -10,10 +10,14 @@ Clinical texts, represented in electronic medical records (EMRs), contain rich m
 
 MedTem1.0 Pipeline:
 
-<img src="https://github.com/HECTA-UoM/MedTem/blob/main/MedTem-pipe.png" width="600">
+<img src="https://github.com/HECTA-UoM/MedTem/blob/main/MedTem-pipe.png" width="900">
 
 
+MedTem1.0 used data set sample with labels from i2b2 2009 and 2012:
 
+<img src="https://github.com/HECTA-UoM/MedTem/blob/main/2009-labels.png" width="400">
+
+<img src="https://github.com/HECTA-UoM/MedTem/blob/main/2012-labels.png" width="400">
 
 
 # MedTem2.0 
