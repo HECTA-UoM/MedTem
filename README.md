@@ -28,6 +28,23 @@ MedTem1.0 used data set sample with labels from i2b2 2009 and 2012:
 <img src="https://github.com/HECTA-UoM/MedTem/blob/main/2012-labels.png" width="600">
 
 
+MedTem1.0 NER scores using BiLSTM-CRF
+
+<img src="https://github.com/HECTA-UoM/MedTem/blob/main/2009-bilstm-crf.png" width="600">
+
+<img src="https://github.com/HECTA-UoM/MedTem/blob/main/2012-bilstm-crf.png" width="600">
+
+
+MedTem1.0 RE model we re-implemented BERT-CNN:
+<img src="https://github.com/HECTA-UoM/MedTem/blob/main/BERT-cnn.png" width="600">
+
+
+MedTem1.0 RE scores using BERT-CNN on i2b2 2012 train and test set:
+
+<img src="https://github.com/HECTA-UoM/MedTem/blob/main/RE-2012-train.png" width="600">
+
+<img src="https://github.com/HECTA-UoM/MedTem/blob/main/RE-2012-test.png" width="600">
+
 
 # MedTem2.0 
 
