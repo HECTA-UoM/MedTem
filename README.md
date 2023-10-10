@@ -1,16 +1,20 @@
 <img src="https://github.com/HECTA-UoM/MedTem/blob/main/MedTem_logo.png" width="100">
 
 # MedTem: Medications and Treatments Mining and Temporal Relation Modelling using NLP
-
-
-
-
-Placeholder for codes and data sharing on this project.
 We use state-of-the-art NLP models including LLMs and GPTs to extract medication and temporal relations from clinical letters, for supporting healthcare. 
 
+# MedTem1.0:
+Abstract:
+Clinical texts, represented in electronic medical records (EMRs), contain rich medical information and are essential for disease prediction, personalised information recommendation, clinical decision support, and medication pattern mining and measurement. Relation extractions between medication mentions and temporal information can further help clinicians better understand the patients' treatment history. To evaluate the performances of deep learning (DL) and large language models (LLMs) in medication extraction and temporal relations classification, we carry out an empirical investigation of \textbf{MedTem} project using several advanced learning structures including BiLSTM-CRF and CNN-BiLSTM for a clinical domain named entity recognition (NER), and BERT-CNN for temporal relation extraction (RE), in addition to the exploration of different word embedding techniques. Furthermore, we also designed a set of post-processing roles to generate structured output on medications and the temporal relation. Our experiments show that CNN-BiLSTM slightly wins the BiLSTM-CRF model on the i2b2-2009 clinical NER task yielding 75.67, 77.83, and 78.17 for precision, recall, and F1 scores using Macro Average. BERT-CNN model also produced reasonable evaluation scores 64.48, 67.17, and 65.03 for P/R/F1 using Macro Avg on the temporal relation extraction test set from i2b2-2012 challenges. 
 
-# Data used for testing
-n2c2 shared task data from 2009 and 2012.
+
+
+
+
+
+
+# MedTem2.0 
+
 
 # PBL Template Examples
 
@@ -40,6 +44,15 @@ HealTAC2023 http://healtex.org/healtac-2023/programme/
 Yang Cui, Lifeng Han, Goran Nenadic. 2023. 
 MedTem2.0: Prompt-based Temporal Classification of Treatment Events from Discharge Summaries. Accepted to ACL2023: SRW. [paper](https://www.researchgate.net/publication/371575431_MedTem20_Prompt-based_Temporal_Classification_of_Treatment_Events_from_Discharge_Summaries) [poster](https://github.com/HECTA-UoM/MedTem/blob/main/MedTem_poster_Portrait_4ACL.pdf)
 
+MedTem-1:
+@misc{tu2023extraction,
+      title={Extraction of Medication and Temporal Relation from Clinical Text using Neural Language Models}, 
+      author={Hangyu Tu and Lifeng Han and Goran Nenadic},
+      year={2023},
+      eprint={2310.02229},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 Hangyu Tu. 2022. Extraction of Temporal Information from Clinical Free Text. MSc thesis. Uni Manchester. MSc Advisor: [Prof Goran Nenadic](https://research.manchester.ac.uk/en/persons/gnenadic) and [Dr Lifeng Han](https://research.manchester.ac.uk/en/persons/lifeng.han) | 
 [thesis-download](https://www.researchgate.net/publication/369453637_Extraction_of_Temporal_Information_from_Clinical_Free_Text)
 
