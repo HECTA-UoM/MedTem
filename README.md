@@ -36,6 +36,7 @@ MedTem1.0 NER scores using BiLSTM-CRF
 
 
 MedTem1.0 RE model we re-implemented BERT-CNN:
+
 <img src="https://github.com/HECTA-UoM/MedTem/blob/main/BERT-cnn.png" width="600">
 
 
