@@ -8,16 +8,25 @@ Abstract:
 Clinical texts, represented in electronic medical records (EMRs), contain rich medical information and are essential for disease prediction, personalised information recommendation, clinical decision support, and medication pattern mining and measurement. Relation extractions between medication mentions and temporal information can further help clinicians better understand the patients' treatment history. To evaluate the performances of deep learning (DL) and large language models (LLMs) in medication extraction and temporal relations classification, we carry out an empirical investigation of \textbf{MedTem} project using several advanced learning structures including BiLSTM-CRF and CNN-BiLSTM for a clinical domain named entity recognition (NER), and BERT-CNN for temporal relation extraction (RE), in addition to the exploration of different word embedding techniques. Furthermore, we also designed a set of post-processing roles to generate structured output on medications and the temporal relation. Our experiments show that CNN-BiLSTM slightly wins the BiLSTM-CRF model on the i2b2-2009 clinical NER task yielding 75.67, 77.83, and 78.17 for precision, recall, and F1 scores using Macro Average. BERT-CNN model also produced reasonable evaluation scores 64.48, 67.17, and 65.03 for P/R/F1 using Macro Avg on the temporal relation extraction test set from i2b2-2012 challenges. 
 
 
+MedTem1.0 goal of output from free text to table representation:
+
+<img src="https://github.com/HECTA-UoM/MedTem/blob/main/input-example-free-text.png" width="900">
+
+<img src="https://github.com/HECTA-UoM/MedTem/blob/main/example-output.pgn" width="600">
+
+
 MedTem1.0 Pipeline:
 
 <img src="https://github.com/HECTA-UoM/MedTem/blob/main/MedTem-pipe.png" width="900">
 
 
+
 MedTem1.0 used data set sample with labels from i2b2 2009 and 2012:
 
-<img src="https://github.com/HECTA-UoM/MedTem/blob/main/2009-labels.png" width="400">
+<img src="https://github.com/HECTA-UoM/MedTem/blob/main/2009-labels.png" width="600">
 
-<img src="https://github.com/HECTA-UoM/MedTem/blob/main/2012-labels.png" width="400">
+<img src="https://github.com/HECTA-UoM/MedTem/blob/main/2012-labels.png" width="600">
+
 
 
 # MedTem2.0 
