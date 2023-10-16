@@ -49,7 +49,7 @@ MedTem1.0 RE scores using BERT-CNN on i2b2 2012 train and test set:
 
 # MedTem2.0 
 
-More details on MedTem2 is hosted at [Here](https://github.com/yang-C23/Third_year_project)
+More details on MedTem2 are hosted at [Here: codes and instructions](https://github.com/yang-C23/Third_year_project)
 
 # PBL Template Examples
 
