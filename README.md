@@ -47,9 +47,9 @@ MedTem1.0 RE scores using BERT-CNN on i2b2 2012 train and test set:
 <img src="https://github.com/HECTA-UoM/MedTem/blob/main/RE-2012-test.png" width="600">
 
 
-# MedTem2.0 
+# MedTem2.0 [codes used](https://github.com/yang-C23/Third_year_project)
 
-More details on MedTem2 are hosted at [Here: codes and instructions](https://github.com/yang-C23/Third_year_project)
+More details on MedTem2 are hosted by [Yang Cui](https://github.com/yang-C23/) at above link
 
 # PBL Template Examples
 
